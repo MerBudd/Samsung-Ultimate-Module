@@ -1,4 +1,4 @@
-# Ultimate S23 Module Features
+# Ultimate S22 Module Features
 
 ## General features
 - Wallpaper AOD
@@ -6,7 +6,6 @@
 - Outdoor mode (for an extra bright screen outside)
 - More battery info in settings, including battery health and cycle count
 - Boost dialogue
-- Wi-Fi 7 support
 - Better Bixby
 - Daily Board
 - Multiple users
