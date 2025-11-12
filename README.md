@@ -1,7 +1,4 @@
-<img width="100%" height="auto" display="block" pointer-events="none" alt="Banner sowing S23 series devices, with the text 'Ultimate S23 module by @CyberK1' above it" src="https://github.com/user-attachments/assets/80e86a55-52a3-406e-99d0-fe4eb36a762f" />
-
-[![Banner showing S23 series devices, with the text 'Ultimate S23 module by @CyberK1' above it](visuals/banner.png)](#)
-
+[![Banner showing S23 series devices, with the text 'Ultimate S23 module by @CyberK1' above it](visuals/banner-s23.png)](#)
 
 # S23 Series Ultimate Module
 ![S23SUM](https://img.shields.io/badge/Ultimate%20Module-h?label=S23%20Series&color=darkgreen)
@@ -38,10 +35,10 @@ Please see [FEATURE-LIST.md](/FEATURE-LIST.md) for more information and a detail
 > If anything does go wrong, you, the user, take full responsibilty. **Use at your own risk!**
 
 ## Credits
-- @CyberK1911 (@CyberK01 on Telegram) for developing module
-- @Alizabp for camera fixes 
+- @CyberK for developing module ([Telegram](https://t.me/CyberK1))
+- @Alizabp for camera fixes ([Telegram](https://t.me/Alizabp))
 
 ### Special thanks to
-- @MerBudd for visual work and written content (including this nifty readme you're reading right now! 😉)
-- @archer0305 for some fixes and letting us use his stuff
-- @DaManMikey for helping set GitHub and the repo up
+- MerBudd for visual and written work (including this nifty readme you're reading right now!) (@MerBudd on all platforms, [Twitter](https://x.com/MerBudd), [Reddit](https://www.reddit.com/user/MerBudd/), [Telegram](https://t.me/MerBudd), etc.)
+- archer0305 for some fixes and letting us use his stuff ([GitHub](https://github.com/archer0305), [Telegram](https://t.me/archer0305))
+- DaManMikey for helping set GitHub and the repo up ([Telegram](https://t.me/Damanmikey), [TikTok](https://www.tiktok.com/@mikeydoestech))
